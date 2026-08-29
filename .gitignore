@@ -1,0 +1,17 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+*.tfvars
+
+# Secrets / credentials
+*.pem
+*.key
+.env
+kubeconfig*
+*.crt
+
+# OS / editor junk
+.DS_Store
+*.swp
