@@ -19,4 +19,4 @@ Each folder contains:
 
 ## About me
 
-Osama — CS student focused on DevOps and cloud engineering.
+Osama — A CS PSUT student focused on DevOps and cloud engineering!
