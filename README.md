@@ -11,9 +11,9 @@ Each folder contains:
 | # | Challenge | Status |
 |---|-----------|--------|
 | 2 | Linux Automation | ✅ Done |
-| 1 | K8s Deployment | 🔲 In progress |
-| 9 | Docker Multi-Stage Build | 🔲 Todo |
-| 11| Docker Compose | 🔲 Todo |
+| 1 | K8s Deployment | ✅ Done |
+| 9 | Docker Multi-Stage Build | ✅ Done |
+| 11| Docker Compose | ✅ Done |
 | 6 | Terraform S3/VPC | 🔲 Todo |
 | 8 | GitHub Actions CI/CD | 🔲 Todo |
 
